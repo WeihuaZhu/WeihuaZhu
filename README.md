@@ -1,6 +1,6 @@
 ### Hi there 👋🤓
 - 😎 I'm currently working on backend/API at Pinterest
-- 📚 I'm currently learning Spring framework and React web framework
+- 📚 I'm currently learning Spring framework and distributed systems
 - 📧 How to reach me: zhuweihua2746@gmail.com
 <!--
 **WeihuaZhu/WeihuaZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
