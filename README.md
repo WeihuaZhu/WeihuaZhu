@@ -1,8 +1,6 @@
 ### Hi there 👋🤓
 - 😎 I'm currently a Software Engineer working on backend/API at Pinterest, Search Product.
 - 📚 I'm currently learning distributed systems
-- 📧 How to reach me: zhuweihua2746@hotmail.com
-- ♟️ I'm a chess lover in my spare time, reach out to me on https://www.chess.com/member/zackzhu20
 <!--
 **WeihuaZhu/WeihuaZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
